@@ -1,11 +1,11 @@
 # Resume 
-#SUNKARA GOPI RAKESH
+# SUNKARA GOPI RAKESH
 
-###CAREER OBJECTIVE
+### CAREER OBJECTIVE
 To work for an organisation, this provides me an opportunity to improve my skills and knowledge to grow along with the organization objective. 
 
 
-###PERSONAL DETAILS:
+### PERSONAL DETAILS:
 Name :SUNKARA GOPI RAKESH 
 
 Father Name : SUNKARA RAMA RAO
@@ -25,7 +25,7 @@ Marital Status : Unmarried
 Permenant Address : D.no:1-87,Gurrajupalem,G.Konduru mandal,Krishna district,Andhra Pradesh,521230
 
 
-###ACADEMIC PROFILE:
+### ACADEMIC PROFILE:
 
 ***SSC***
 
@@ -54,7 +54,7 @@ University-JNTUK
 Year of passing-2018-2022
 
 
-###CERTIFICATES:
+### CERTIFICATES:
 
 Certificate of Participation in Solid Works organised by APSSDC
 
@@ -62,12 +62,12 @@ Certificate of Participation in Auto Cad organised by APSSDC
 
 Certificate of Participation in Digital Marketing online training  organised by APSSDC.
 
-###INTERNSHIP:
+### INTERNSHIP:
 
 Certified by Coursera in Programming for Everybody(Getting Started With Python)
 
 
-###ACADEMIC PROJECTS:
+### ACADEMIC PROJECTS:
 
 PAL on solving Thermodynamics problems uisng C Programming
 
@@ -78,12 +78,12 @@ MINI PROJECT  on An investigation on Gear Box Fault Detection using Vibration An
 Description: The main objective of   Mini Project is “To identify fault in Gears by using Vibrations".
 
 
-###WORKSHOPS:
+### WORKSHOPS:
 
 Participated in Robotics workshop organised by LBRCE.
 
 
-###PERSONAL STRENGHTS:
+### PERSONAL STRENGHTS:
 
 Patience
 
@@ -92,7 +92,7 @@ Dedication towards my work
 Enthusiastic to learn new things
 
 
-###HOBBIES:
+### HOBBIES:
 
 Browsing Net
 
